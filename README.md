@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Manoj2111/Manoj2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Manoj! 
 
-Here are some ideas to get you started:
+### A curious learner exploring the world of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA Student
+- 🌱 Currently learning programming and web development
+- 💻 Exploring HTML, CSS, JavaScript and Java
+- 🚀 Interested in building projects and participating in hackathons
+- 🎯 Learning something new every day
+
+### 🛠️ Technologies I'm Exploring
+• C language • C++ • Git • GitHub
+
+### 📌 A little about me
+
+I believe you don't need to be pixel-perfect. Just keep learning, experimenting and building.
+
+### 🌐 Connect with me
+
+- Instagram: [@manoj_197378](https://www.instagram.com/manoj_197378/)
+- GitHub: You're already here! 😄
+
+---
+
+*"Progress over perfection."*
